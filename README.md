@@ -86,4 +86,4 @@ The project applies **ARIMA (Autoregressive Integrated Moving Average) models** 
 
 ---
 
-📌 *Note:* Forecast plots and graphs can be added in a `/plots/` folder and embedded here for better visualization.  
+
